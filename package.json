@@ -1,0 +1,31 @@
+{
+  "name": "amit_angular2_seed",
+  "version": "0.1",
+  "description": "Amgular2 seed application by Amit",
+  "main": "main.js",
+  "scripts": {
+    "install": "npm install",
+    "start": "npm start",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amityadav/angular2-seed.git"
+  },
+  "keywords": [
+    "Angular2",
+    "seed",
+    "Angular2 seed"
+  ],
+  "author": "Amit YAdav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amityadav/angular2-seed/issues"
+  },
+  "homepage": "https://github.com/amityadav/angular2-seed.git",
+  "devDependencies": {
+  },
+  "dependencies": {
+    
+  }
+}
